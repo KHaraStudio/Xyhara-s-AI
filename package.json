@@ -1,0 +1,10 @@
+{
+  "name": "xyhara-ai-cli",
+  "version": "1.0.0",
+  "description": "XyHara AI CLI - AI yang bisa berpikir dan belajar pelan-pelan",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "xyhara": "./index.js"
+  }
+}
